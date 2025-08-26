@@ -2,6 +2,7 @@
 #include <cmath>
 #include <iostream>
 #include <vector>
+#include "promptWindow.h"
 
 int counter = 0;
 int enterCounter = 0;
@@ -199,12 +200,17 @@ int main() {
 
     //Init Text
     sf::Text inputText(font);
-    inputText.setCharacterSize(30);
+    inputText.setCharacterSize(14);
     inputText.setFillColor(sf::Color::White);
     inputText.setPosition({ 50, 50 });
 
+    //prompt Window test
+    promptWindow prompt("Hallo Hier bin ich! Ich bin ein Ganz schön wilder gnom! Also pass lieber auf was du sagst du frechdachs! Mein name ist Camillo, ich programmiere sehr gerne und studiere nebenbei. Meine Freundin heißt Eve ich hab sie sehr sehr gerne!", { 400.0f, 400.0f }, 400.0f);
+
     std::string input;
     int angle = 0;
+
+
 
 
     while (window.isOpen())
@@ -232,21 +238,40 @@ int main() {
 
             checkForNumericalInput(event, input);
 
-
-
         }
 
 
-        std::cout << input << '\n';
+        //Input Border Test
         inputText.setString(input);
+        sf::FloatRect boundsRect(inputText.getGlobalBounds());
+
+        float padding = 10.0f;
+        sf::RectangleShape inputTextBorder({ boundsRect.size.x + padding, boundsRect.size.y + padding});
+        inputTextBorder.setPosition({ boundsRect.position.x - padding / 2, boundsRect.position.y - padding /2 });
+        inputTextBorder.setFillColor(sf::Color::Transparent);
+        inputTextBorder.setOutlineThickness(3.0f);
+
+        
+
+        
+        
+
 
         window.clear();
+
+        //Draw Calls
         for (sf::CircleShape element : objectContainer) {
             window.draw(element);
         }
         drawVector({ 200.0f,200.0f }, (100 - enterCounter * 10), angle, &window);
         //window.draw(circle);
         window.draw(inputText);
+        if (input.length() != 0) {
+            window.draw(inputTextBorder);
+        }
+        prompt.draw(window);
+        
+
         window.display();
 
 
