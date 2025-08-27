@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/freetype-subbuild/CMakeFiles/freetype-populate"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/freetype-subbuild/CMakeFiles/97600c24d00669234160a434cac39a65/freetype-populate.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/freetype-subbuild/CMakeFiles/002b88fd0211e7933645f68d7a22e94b/freetype-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/freetype-subbuild/CMakeFiles/b31fa53d9cc78358491c3bdac8d954b6/freetype-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/freetype-subbuild/CMakeFiles/b31fa53d9cc78358491c3bdac8d954b6/freetype-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/freetype-subbuild/CMakeFiles/b31fa53d9cc78358491c3bdac8d954b6/freetype-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/freetype-subbuild/CMakeFiles/b31fa53d9cc78358491c3bdac8d954b6/freetype-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/freetype-subbuild/CMakeFiles/b31fa53d9cc78358491c3bdac8d954b6/freetype-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/freetype-subbuild/CMakeFiles/b31fa53d9cc78358491c3bdac8d954b6/freetype-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/freetype-subbuild/CMakeFiles/b31fa53d9cc78358491c3bdac8d954b6/freetype-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/freetype-subbuild/CMakeFiles/b31fa53d9cc78358491c3bdac8d954b6/freetype-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"freetype-populate"
+		],
+		"name" : "freetype-populate"
+	}
+}

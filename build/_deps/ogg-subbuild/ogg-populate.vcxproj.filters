@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\ogg-subbuild\CMakeFiles\52c34ba00de82cc1129276d66141e146\ogg-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\ogg-subbuild\CMakeFiles\52c34ba00de82cc1129276d66141e146\ogg-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\ogg-subbuild\CMakeFiles\52c34ba00de82cc1129276d66141e146\ogg-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\ogg-subbuild\CMakeFiles\52c34ba00de82cc1129276d66141e146\ogg-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\ogg-subbuild\CMakeFiles\52c34ba00de82cc1129276d66141e146\ogg-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\ogg-subbuild\CMakeFiles\52c34ba00de82cc1129276d66141e146\ogg-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\ogg-subbuild\CMakeFiles\52c34ba00de82cc1129276d66141e146\ogg-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\ogg-subbuild\CMakeFiles\52c34ba00de82cc1129276d66141e146\ogg-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\ogg-subbuild\CMakeFiles\95bad6bc3d8e566ab9bdb624688d4c94\ogg-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\ogg-subbuild\CMakeFiles\95f05cbc4f20bf533f451b11b2f2715c\ogg-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\ogg-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\ogg-subbuild\CMakeFiles\ogg-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B6F74402-236A-3F16-AC3E-495140AB958E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

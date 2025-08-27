@@ -1,0 +1,12 @@
+﻿  1>Checking Build System
+  CMake is re-running because C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/CMakeFiles/generate.stamp is out-of-date.
+    the file 'C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/CMakeLists.txt'
+    is newer than 'C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Selecting Windows SDK version 10.0.26100.0 to target Windows 10.0.19045.
+  -- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
+  -- Configuring libogg 1.3.5
+  -- Configuring vorbis 1.3.7
+  -- Configuring done (5.8s)
+  -- Generating done (1.4s)
+  -- Build files have been written to: C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build

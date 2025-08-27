@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/ec56a677219f5a90df2d5d03a251e952/vorbis-populate.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/d860b949aa581695114ff786428a40a4/vorbis-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/e51b8db56ca9e86de1fc4be35dd17555/vorbis-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/e51b8db56ca9e86de1fc4be35dd17555/vorbis-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/e51b8db56ca9e86de1fc4be35dd17555/vorbis-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/e51b8db56ca9e86de1fc4be35dd17555/vorbis-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/e51b8db56ca9e86de1fc4be35dd17555/vorbis-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/e51b8db56ca9e86de1fc4be35dd17555/vorbis-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/e51b8db56ca9e86de1fc4be35dd17555/vorbis-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/e51b8db56ca9e86de1fc4be35dd17555/vorbis-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vorbis-populate"
+		],
+		"name" : "vorbis-populate"
+	}
+}

@@ -1,0 +1,14 @@
+# Target labels
+ ogg-populate
+# Source files and their labels
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/ogg-subbuild/CMakeFiles/ogg-populate
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/ogg-subbuild/CMakeFiles/95f05cbc4f20bf533f451b11b2f2715c/ogg-populate.rule
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/ogg-subbuild/CMakeFiles/95bad6bc3d8e566ab9bdb624688d4c94/ogg-populate-complete.rule
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/ogg-subbuild/CMakeFiles/52c34ba00de82cc1129276d66141e146/ogg-populate-build.rule
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/ogg-subbuild/CMakeFiles/52c34ba00de82cc1129276d66141e146/ogg-populate-configure.rule
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/ogg-subbuild/CMakeFiles/52c34ba00de82cc1129276d66141e146/ogg-populate-download.rule
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/ogg-subbuild/CMakeFiles/52c34ba00de82cc1129276d66141e146/ogg-populate-install.rule
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/ogg-subbuild/CMakeFiles/52c34ba00de82cc1129276d66141e146/ogg-populate-mkdir.rule
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/ogg-subbuild/CMakeFiles/52c34ba00de82cc1129276d66141e146/ogg-populate-patch.rule
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/ogg-subbuild/CMakeFiles/52c34ba00de82cc1129276d66141e146/ogg-populate-test.rule
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/ogg-subbuild/CMakeFiles/52c34ba00de82cc1129276d66141e146/ogg-populate-update.rule

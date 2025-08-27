@@ -1,0 +1,14 @@
+# Target labels
+ vorbis-populate
+# Source files and their labels
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/ec56a677219f5a90df2d5d03a251e952/vorbis-populate.rule
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/d860b949aa581695114ff786428a40a4/vorbis-populate-complete.rule
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/e51b8db56ca9e86de1fc4be35dd17555/vorbis-populate-build.rule
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/e51b8db56ca9e86de1fc4be35dd17555/vorbis-populate-configure.rule
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/e51b8db56ca9e86de1fc4be35dd17555/vorbis-populate-download.rule
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/e51b8db56ca9e86de1fc4be35dd17555/vorbis-populate-install.rule
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/e51b8db56ca9e86de1fc4be35dd17555/vorbis-populate-mkdir.rule
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/e51b8db56ca9e86de1fc4be35dd17555/vorbis-populate-patch.rule
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/e51b8db56ca9e86de1fc4be35dd17555/vorbis-populate-test.rule
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/e51b8db56ca9e86de1fc4be35dd17555/vorbis-populate-update.rule

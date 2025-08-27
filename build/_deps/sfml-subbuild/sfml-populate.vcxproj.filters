@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\sfml-subbuild\CMakeFiles\146736b3a32c2fbab50449002449030a\sfml-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\sfml-subbuild\CMakeFiles\146736b3a32c2fbab50449002449030a\sfml-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\sfml-subbuild\CMakeFiles\146736b3a32c2fbab50449002449030a\sfml-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\sfml-subbuild\CMakeFiles\146736b3a32c2fbab50449002449030a\sfml-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\sfml-subbuild\CMakeFiles\146736b3a32c2fbab50449002449030a\sfml-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\sfml-subbuild\CMakeFiles\146736b3a32c2fbab50449002449030a\sfml-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\sfml-subbuild\CMakeFiles\146736b3a32c2fbab50449002449030a\sfml-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\sfml-subbuild\CMakeFiles\146736b3a32c2fbab50449002449030a\sfml-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\sfml-subbuild\CMakeFiles\53dc4125fe0ba71bb9f3316600090767\sfml-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\sfml-subbuild\CMakeFiles\f9295be77243bca586a12ac85d363927\sfml-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\sfml-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\sfml-subbuild\CMakeFiles\sfml-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{93D7E3A6-0134-31FD-8887-5CA0230F8F1A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

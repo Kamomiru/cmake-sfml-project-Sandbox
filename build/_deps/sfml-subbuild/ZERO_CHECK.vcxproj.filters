@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\sfml-subbuild\CMakeFiles\f9295be77243bca586a12ac85d363927\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{93D7E3A6-0134-31FD-8887-5CA0230F8F1A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

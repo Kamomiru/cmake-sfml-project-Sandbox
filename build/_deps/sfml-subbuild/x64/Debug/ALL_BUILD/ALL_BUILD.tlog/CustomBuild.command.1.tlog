@@ -1,0 +1,10 @@
+^C:\USERS\CAMIL\DOCUMENTS\CODE FOLDER\SFML SANDBOX\CMAKE-SFML-PROJECT\BUILD\_DEPS\SFML-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/sfml-subbuild" "-BC:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/sfml-subbuild" --check-stamp-file "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/sfml-subbuild/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+^C:\USERS\CAMIL\DOCUMENTS\CODE FOLDER\SFML SANDBOX\CMAKE-SFML-PROJECT\BUILD\_DEPS\VORBIS-SUBBUILD\CMAKEFILES\EC56A677219F5A90DF2D5D03A251E952\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild" "-BC:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/vorbis-populate.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

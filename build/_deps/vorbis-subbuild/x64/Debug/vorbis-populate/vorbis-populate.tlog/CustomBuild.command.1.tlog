@@ -1,0 +1,154 @@
+^C:\USERS\CAMIL\DOCUMENTS\CODE FOLDER\SFML SANDBOX\CMAKE-SFML-PROJECT\BUILD\_DEPS\VORBIS-SUBBUILD\CMAKEFILES\E51B8DB56CA9E86DE1FC4BE35DD17555\VORBIS-POPULATE-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/vorbis-populate-prefix/tmp/vorbis-populate-mkdirs.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/Debug/vorbis-populate-mkdir"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\CAMIL\DOCUMENTS\CODE FOLDER\SFML SANDBOX\CMAKE-SFML-PROJECT\BUILD\_DEPS\VORBIS-SUBBUILD\CMAKEFILES\E51B8DB56CA9E86DE1FC4BE35DD17555\VORBIS-POPULATE-DOWNLOAD.RULE
+setlocal
+cd "C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/vorbis-populate-prefix/tmp/vorbis-populate-gitclone.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/Debug/vorbis-populate-download"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\CAMIL\DOCUMENTS\CODE FOLDER\SFML SANDBOX\CMAKE-SFML-PROJECT\BUILD\_DEPS\VORBIS-SUBBUILD\CMAKEFILES\E51B8DB56CA9E86DE1FC4BE35DD17555\VORBIS-POPULATE-UPDATE.RULE
+setlocal
+cd "C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\vorbis-src"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -Dcan_fetch=YES -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/vorbis-populate-prefix/tmp/vorbis-populate-gitupdate.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\CAMIL\DOCUMENTS\CODE FOLDER\SFML SANDBOX\CMAKE-SFML-PROJECT\BUILD\_DEPS\VORBIS-SUBBUILD\CMAKEFILES\E51B8DB56CA9E86DE1FC4BE35DD17555\VORBIS-POPULATE-PATCH.RULE
+setlocal
+cd "C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\vorbis-src"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" "-DVORBIS_DIR=C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-src" -P "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/sfml-src/tools/vorbis/PatchVorbis.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/Debug/vorbis-populate-patch"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\CAMIL\DOCUMENTS\CODE FOLDER\SFML SANDBOX\CMAKE-SFML-PROJECT\BUILD\_DEPS\VORBIS-SUBBUILD\CMAKEFILES\E51B8DB56CA9E86DE1FC4BE35DD17555\VORBIS-POPULATE-CONFIGURE.RULE
+setlocal
+cd "C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\vorbis-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/Debug/vorbis-populate-configure"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\CAMIL\DOCUMENTS\CODE FOLDER\SFML SANDBOX\CMAKE-SFML-PROJECT\BUILD\_DEPS\VORBIS-SUBBUILD\CMAKEFILES\E51B8DB56CA9E86DE1FC4BE35DD17555\VORBIS-POPULATE-BUILD.RULE
+setlocal
+cd "C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\vorbis-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/Debug/vorbis-populate-build"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\CAMIL\DOCUMENTS\CODE FOLDER\SFML SANDBOX\CMAKE-SFML-PROJECT\BUILD\_DEPS\VORBIS-SUBBUILD\CMAKEFILES\E51B8DB56CA9E86DE1FC4BE35DD17555\VORBIS-POPULATE-INSTALL.RULE
+setlocal
+cd "C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\vorbis-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/Debug/vorbis-populate-install"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\CAMIL\DOCUMENTS\CODE FOLDER\SFML SANDBOX\CMAKE-SFML-PROJECT\BUILD\_DEPS\VORBIS-SUBBUILD\CMAKEFILES\E51B8DB56CA9E86DE1FC4BE35DD17555\VORBIS-POPULATE-TEST.RULE
+setlocal
+cd "C:\Users\camil\Documents\Code Folder\SFML Sandbox\cmake-sfml-project\build\_deps\vorbis-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/Debug/vorbis-populate-test"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\CAMIL\DOCUMENTS\CODE FOLDER\SFML SANDBOX\CMAKE-SFML-PROJECT\BUILD\_DEPS\VORBIS-SUBBUILD\CMAKEFILES\D860B949AA581695114FF786428A40A4\VORBIS-POPULATE-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/Debug"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/Debug/vorbis-populate-complete"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/Debug/vorbis-populate-done"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\CAMIL\DOCUMENTS\CODE FOLDER\SFML SANDBOX\CMAKE-SFML-PROJECT\BUILD\_DEPS\VORBIS-SUBBUILD\CMAKEFILES\EC56A677219F5A90DF2D5D03A251E952\VORBIS-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\CAMIL\DOCUMENTS\CODE FOLDER\SFML SANDBOX\CMAKE-SFML-PROJECT\BUILD\_DEPS\VORBIS-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild" "-BC:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild" --check-stamp-file "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/vorbis-subbuild/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

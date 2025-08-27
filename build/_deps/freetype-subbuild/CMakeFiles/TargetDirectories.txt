@@ -1,0 +1,3 @@
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/freetype-subbuild/CMakeFiles/freetype-populate.dir
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/freetype-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/freetype-subbuild/CMakeFiles/ZERO_CHECK.dir

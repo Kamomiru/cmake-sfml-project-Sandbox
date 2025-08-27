@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/sfml-subbuild/CMakeFiles/f9295be77243bca586a12ac85d363927/sfml-populate.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/sfml-subbuild/CMakeFiles/53dc4125fe0ba71bb9f3316600090767/sfml-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/sfml-subbuild/CMakeFiles/146736b3a32c2fbab50449002449030a/sfml-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/sfml-subbuild/CMakeFiles/146736b3a32c2fbab50449002449030a/sfml-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/sfml-subbuild/CMakeFiles/146736b3a32c2fbab50449002449030a/sfml-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/sfml-subbuild/CMakeFiles/146736b3a32c2fbab50449002449030a/sfml-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/sfml-subbuild/CMakeFiles/146736b3a32c2fbab50449002449030a/sfml-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/sfml-subbuild/CMakeFiles/146736b3a32c2fbab50449002449030a/sfml-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/sfml-subbuild/CMakeFiles/146736b3a32c2fbab50449002449030a/sfml-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/camil/Documents/Code Folder/SFML Sandbox/cmake-sfml-project/build/_deps/sfml-subbuild/CMakeFiles/146736b3a32c2fbab50449002449030a/sfml-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sfml-populate"
+		],
+		"name" : "sfml-populate"
+	}
+}
